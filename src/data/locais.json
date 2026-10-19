@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "moema",
+    "nome": "Moema",
+    "prep": "em",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Mariana",
+      "Campo Belo",
+      "Saúde"
+    ],
+    "referenciaLocal": "Atendemos Moema e toda a Zona Sul com investigadores que conhecem a região, da Av. Ibirapuera aos edifícios próximos ao parque, sempre com abordagem discreta e sem chamar atenção.",
+    "faq": [
+      {
+        "q": "O atendimento em Moema é sigiloso?",
+        "a": "Sim. Todo contato é tratado com sigilo absoluto, do primeiro telefonema à entrega do relatório, sem que ninguém além de você saiba da investigação."
+      },
+      {
+        "q": "Em quanto tempo recebo um retorno sobre o caso?",
+        "a": "Após a conversa inicial, montamos o plano de investigação e damos o primeiro retorno em poucos dias, conforme a complexidade do caso."
+      }
+    ]
+  },
+  {
+    "slug": "jardins",
+    "nome": "Jardins",
+    "prep": "nos",
+    "regiao": "região central de São Paulo",
+    "bairrosVizinhos": [
+      "Cerqueira César",
+      "Pinheiros",
+      "Itaim Bibi"
+    ],
+    "referenciaLocal": "Cobrimos os Jardins e o entorno da Av. Paulista com equipe própria de campo, acostumada a atuar em região movimentada de comércio e edifícios residenciais de alto padrão sem levantar suspeita.",
+    "faq": [
+      {
+        "q": "Vocês atendem casos empresariais nos Jardins?",
+        "a": "Sim. Fazemos investigação empresarial e trabalhista para escritórios e comércios da região, com relatório que pode servir como prova."
+      },
+      {
+        "q": "Preciso ir até um endereço para contratar?",
+        "a": "Não é obrigatório. A maior parte do atendimento é feita por telefone e WhatsApp, e a reunião presencial só acontece se você preferir."
+      }
+    ]
+  },
+  {
+    "slug": "itaim-bibi",
+    "nome": "Itaim Bibi",
+    "prep": "no",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Olímpia",
+      "Brooklin",
+      "Faria Lima"
+    ],
+    "referenciaLocal": "No Itaim Bibi e no eixo da Faria Lima atuamos com foco em investigação empresarial e contra-espionagem, atendendo empresas e profissionais que precisam de discrição em ambiente corporativo.",
+    "faq": [
+      {
+        "q": "Fazem varredura de ambientes em escritórios no Itaim?",
+        "a": "Fazemos. Realizamos varredura de escutas e contra-espionagem em salas de reunião e escritórios, com equipamento próprio e relatório técnico."
+      },
+      {
+        "q": "A investigação corporativa é confidencial para a empresa?",
+        "a": "Totalmente. O trabalho é conduzido sem que a equipe investigada perceba, e o resultado é entregue apenas a quem nos contratou."
+      }
+    ]
+  },
+  {
+    "slug": "tatuape",
+    "nome": "Tatuapé",
+    "prep": "no",
+    "regiao": "Zona Leste de São Paulo",
+    "bairrosVizinhos": [
+      "Mooca",
+      "Anália Franco",
+      "Vila Carrão"
+    ],
+    "referenciaLocal": "Atendemos o Tatuapé e a Zona Leste com investigadores de campo na região, prontos para acompanhamento, localização de pessoas e investigação familiar com a mesma discrição do restante da cidade.",
+    "faq": [
+      {
+        "q": "Vocês cobrem toda a Zona Leste a partir do Tatuapé?",
+        "a": "Sim. Usamos o Tatuapé como base para atender Mooca, Anália Franco, Vila Carrão e os bairros vizinhos, com deslocamento ágil de equipe."
+      },
+      {
+        "q": "Dá para acompanhar um caso de pensão ou guarda?",
+        "a": "Dá. Fazemos investigação de pensão alimentícia e situações familiares, reunindo provas documentadas que ajudam em processos."
+      }
+    ]
+  },
+  {
+    "slug": "santana",
+    "nome": "Santana",
+    "prep": "em",
+    "regiao": "Zona Norte de São Paulo",
+    "bairrosVizinhos": [
+      "Tucuruvi",
+      "Carandiru",
+      "Vila Guilherme"
+    ],
+    "referenciaLocal": "Cobrimos Santana e a Zona Norte com atendimento reservado, do entorno do Metrô Santana aos bairros residenciais vizinhos, em casos conjugais, familiares e de rastreamento.",
+    "faq": [
+      {
+        "q": "Como funciona o primeiro contato em Santana?",
+        "a": "Você fala com um detetive pelo WhatsApp ou telefone, explica a situação com sigilo e recebe a orientação de como a investigação pode ser conduzida."
+      },
+      {
+        "q": "O relatório serve como prova?",
+        "a": "Sim. Entregamos relatório com fotos, vídeos e descrição dos fatos, em formato que pode ser usado para a sua decisão ou em processo."
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Falar com um detetive — Detetive Particular SP",
+    "description": "Solicite uma investigação conjugal, empresarial, trabalhista ou digital em São Paulo. Primeiro contato sigiloso e sem compromisso com a Detetive Particular SP."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Falar com um detetive",
+      "title": "Conte seu caso em três passos simples.",
+      "lead": "Informe o serviço e seus dados — o primeiro contato é sigiloso e sem compromisso.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Falar com um detetive", "href": "/agendar" } ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três passos do contato à entrega das provas.",
+      "steps": [
+        { "n": "01", "title": "Contato sigiloso", "text": "Você relata a situação por WhatsApp ou telefone, com total sigilo." },
+        { "n": "02", "title": "Plano de investigação", "text": "Montamos a estratégia de campo e perícia conforme o caso." },
+        { "n": "03", "title": "Relatório com provas", "text": "Entregamos fotos, vídeos e a cronologia dos fatos apurados." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Solicite agora",
+      "title": "Preencha e fale com um detetive.",
+      "services": ["Investigação conjugal", "Investigação empresarial", "Investigação trabalhista", "Perícia em celular", "Investigação de pensão alimentícia", "Investigação virtual", "Rastreamento veicular", "Varredura e contra-espionagem", "Investigação de adolescente"]
+    }}
+  ]
+}

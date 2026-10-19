@@ -1,0 +1,26 @@
+{
+  "name": "Detetive Particular SP",
+  "segmento": "Detetive particular",
+  "schemaType": "LocalBusiness",
+  "postUrlPrefix": "",
+  "description": "Agência de detetive particular em São Paulo: investigação conjugal, empresarial, trabalhista, perícia em celular e rastreamento, com sigilo absoluto e relatório com provas. Atendimento reservado em toda a capital.",
+  "ctaLabel": "Falar com um detetive",
+  "phone": "(11) 0000-0000",
+  "whatsapp": "5511000000000",
+  "email": "contato@detetiveparticularsp.com.br",
+  "address": "Atendimento reservado em toda a São Paulo, SP",
+  "hours": "Atendimento 24h, todos os dias",
+  "social": { "instagram": "#", "facebook": "#", "youtube": "#" },
+  "uf": "SP",
+  "nap": {
+    "streetAddress": "Av. Paulista, 0000 — conj. 000",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "01310-000",
+    "country": "BR",
+    "latitude": -23.5614,
+    "longitude": -46.6559,
+    "priceRange": "$$",
+    "mapEmbed": "https://www.google.com/maps?q=Avenida+Paulista+São+Paulo+SP&output=embed"
+  }
+}

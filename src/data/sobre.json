@@ -1,0 +1,18 @@
+{
+  "hero": {
+    "title": "Agência de detetive particular de confiança em São Paulo",
+    "desc": "Somos uma agência de investigação particular com equipe própria de campo e perícia, atuando em toda a São Paulo e região metropolitana. Conduzimos casos conjugais, empresariais, trabalhistas e digitais com sigilo absoluto, ética e provas que sustentam a sua decisão.",
+    "image": ""
+  },
+  "content": {
+    "missionTitle": "Nosso compromisso",
+    "missionText": "Acreditamos que toda decisão importante precisa de fatos, não de suposição. Por isso reunimos provas com discrição, dentro dos limites da lei, e entregamos um relatório claro do que foi apurado.\n\nTratamos cada cliente com respeito e cada caso com sigilo, porque sabemos que por trás de uma investigação existe uma situação delicada que pede cuidado.",
+    "teamTitle": "Quem conduz a investigação",
+    "teamText": "Por trás de cada caso existe uma equipe de investigadores de campo, peritos e analistas que trabalham em conjunto. É esse cuidado que garante provas consistentes e um atendimento reservado do começo ao fim."
+  },
+  "seo": {
+    "title": "",
+    "description": "",
+    "image": ""
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Investigação",
+  "colors": {
+    "bg": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "soft": "#EEF1F5",
+    "ink": "#16202E",
+    "ink-muted": "#525E6E",
+    "primary": "#16202E",
+    "secondary": "#27384D",
+    "accent": "#C08A2C",
+    "accent-ink": "#14110A",
+    "accent-strong": "#7A5610",
+    "border": "#DDE3EB"
+  },
+  "fonts": { "display": "'Poppins', sans-serif", "body": "'Poppins', sans-serif" }
+}

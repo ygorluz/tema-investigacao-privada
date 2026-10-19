@@ -1,0 +1,261 @@
+{
+  "blocks": [
+    {
+      "type": "hero",
+      "props": {
+        "eyebrow": "Detetive particular em São Paulo",
+        "title": "Investigação particular com sigilo absoluto e provas que você pode usar.",
+        "lead": "Investigação conjugal, empresarial, trabalhista, perícia em celular e rastreamento em toda a São Paulo. Primeiro contato reservado, sem compromisso.",
+        "cta": {
+          "label": "Falar com um detetive",
+          "href": "#contato"
+        },
+        "rating": {
+          "score": "5,0",
+          "count": "320+ casos conduzidos"
+        },
+        "doctor": {
+          "name": "Equipe de investigadores",
+          "role": "Investigação e perícia",
+          "photo": "/images/doctor.jpg"
+        },
+        "contact": {
+          "phone": "(11) 0000-0000",
+          "hours": "Atendimento 24h, todos os dias"
+        }
+      }
+    },
+    {
+      "type": "sobre",
+      "props": {
+        "image": "/images/about.jpg",
+        "badge": "+18 anos de investigação em São Paulo",
+        "eyebrow": "Sobre a agência",
+        "title": "Discrição, ética e provas que sustentam a sua decisão.",
+        "lead": "Conduzimos cada caso com sigilo absoluto, do primeiro contato à entrega do relatório, dentro dos limites da lei.",
+        "benefits": [
+          "Equipe própria de campo e perícia",
+          "Sigilo absoluto em todas as etapas",
+          "Relatório com fotos, vídeos e cronologia",
+          "Atendimento de urgência 24 horas"
+        ],
+        "cta": {
+          "label": "Conheça a agência",
+          "href": "/sobre"
+        }
+      }
+    },
+    {
+      "type": "servicos",
+      "props": {
+        "eyebrow": "Nossos serviços",
+        "title": "Investigação para cada tipo de caso.",
+        "items": [
+          {
+            "title": "Investigação conjugal",
+            "text": "Apuração discreta de suspeita de traição, com provas."
+          },
+          {
+            "title": "Investigação empresarial",
+            "text": "Fraudes, desvios e concorrência desleal na empresa."
+          },
+          {
+            "title": "Perícia em celular",
+            "text": "Recuperação de conversas, fotos e registros apagados."
+          },
+          {
+            "title": "Investigação trabalhista",
+            "text": "Provas contra atestados falsos e ações indevidas."
+          }
+        ],
+        "cta": {
+          "label": "Ver todos os serviços",
+          "href": "/servicos"
+        }
+      }
+    },
+    {
+      "type": "numeros",
+      "props": {
+        "stats": [
+          {
+            "value": "18+",
+            "label": "Anos de atuação"
+          },
+          {
+            "value": "2.500+",
+            "label": "Casos conduzidos"
+          },
+          {
+            "value": "100%",
+            "label": "Sigilo garantido"
+          },
+          {
+            "value": "24h",
+            "label": "Atendimento de urgência"
+          }
+        ]
+      }
+    },
+    {
+      "type": "porqueEscolher",
+      "props": {
+        "eyebrow": "Por que nos escolher",
+        "title": "Investigação séria entrega prova, não palpite.",
+        "image": "/images/why.jpg",
+        "features": [
+          {
+            "title": "Sigilo absoluto",
+            "text": "Só o contratante sabe da investigação."
+          },
+          {
+            "title": "Provas documentadas",
+            "text": "Fotos, vídeos e relatório com data e local."
+          },
+          {
+            "title": "Investigadores experientes",
+            "text": "Equipe própria de campo e perícia digital."
+          },
+          {
+            "title": "Atuação dentro da lei",
+            "text": "Material que pode ser usado em processo."
+          },
+          {
+            "title": "Cobertura em toda a SP",
+            "text": "Atendemos a capital e a região metropolitana."
+          },
+          {
+            "title": "Atendimento 24h",
+            "text": "Resposta rápida em casos de urgência."
+          }
+        ]
+      }
+    },
+    {
+      "type": "comoFunciona",
+      "props": {
+        "eyebrow": "Como funciona",
+        "title": "Três passos do contato à entrega das provas.",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Contato sigiloso",
+            "text": "Você relata a situação por WhatsApp ou telefone, com total sigilo."
+          },
+          {
+            "n": "02",
+            "title": "Plano de investigação",
+            "text": "Montamos a estratégia de campo e perícia conforme o caso."
+          },
+          {
+            "n": "03",
+            "title": "Relatório com provas",
+            "text": "Entregamos fotos, vídeos e a cronologia dos fatos apurados."
+          }
+        ]
+      }
+    },
+    {
+      "type": "equipe",
+      "props": {
+        "eyebrow": "Nossa equipe",
+        "title": "Investigadores que tratam cada caso com discrição.",
+        "members": [
+          {
+            "name": "Investigação de campo",
+            "role": "Acompanhamento e provas",
+            "photo": "/images/team-1.jpg"
+          },
+          {
+            "name": "Perícia digital",
+            "role": "Celular e investigação virtual",
+            "photo": "/images/team-2.jpg"
+          },
+          {
+            "name": "Inteligência e análise",
+            "role": "Levantamento e cruzamento",
+            "photo": "/images/team-3.jpg"
+          },
+          {
+            "name": "Atendimento reservado",
+            "role": "Contato e orientação",
+            "photo": "/images/team-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "depoimentos",
+      "props": {
+        "eyebrow": "Depoimentos",
+        "title": "O que nossos clientes dizem.",
+        "rating": {
+          "score": "4,9",
+          "label": "média de satisfação"
+        },
+        "items": [
+          {
+            "quote": "Conduziram tudo com discrição total e me trouxeram as respostas que eu precisava.",
+            "name": "R. M.",
+            "role": "Cliente — Zona Sul"
+          },
+          {
+            "quote": "O relatório foi essencial para o meu advogado. Profissionais sérios.",
+            "name": "C. A.",
+            "role": "Cliente — caso empresarial"
+          },
+          {
+            "quote": "Atendimento rápido e sem julgamento. Me senti seguro do começo ao fim.",
+            "name": "T. L.",
+            "role": "Cliente — Zona Leste"
+          }
+        ]
+      }
+    },
+    {
+      "type": "novidades",
+      "props": {
+        "eyebrow": "Novidades",
+        "title": "Orientação sobre investigação e provas.",
+        "items": [
+          {
+            "title": "Quando contratar um detetive particular",
+            "excerpt": "Sinais de que vale buscar ajuda profissional.",
+            "image": "/images/post-1.jpg",
+            "href": "#"
+          },
+          {
+            "title": "A prova de uma investigação vale na Justiça?",
+            "excerpt": "O que pode ser usado em processo e como.",
+            "image": "/images/post-2.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Como funciona o sigilo da investigação",
+            "excerpt": "A discrição do primeiro contato à entrega.",
+            "image": "/images/post-3.jpg",
+            "href": "#"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ctaContato",
+      "props": {
+        "eyebrow": "Fale com a gente",
+        "title": "Conte sua situação com sigilo. A primeira conversa é reservada.",
+        "services": [
+          "Investigação conjugal",
+          "Investigação empresarial",
+          "Investigação trabalhista",
+          "Perícia em celular",
+          "Investigação de pensão alimentícia",
+          "Investigação virtual",
+          "Rastreamento veicular",
+          "Varredura e contra-espionagem",
+          "Investigação de adolescente"
+        ]
+      }
+    }
+  ]
+}

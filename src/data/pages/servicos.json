@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Serviços de investigação — Detetive Particular SP",
+    "description": "Investigação conjugal, empresarial, trabalhista, perícia em celular, rastreamento e contra-espionagem em São Paulo. Conheça todos os serviços da Detetive Particular SP."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossos serviços",
+      "title": "Investigação para cada tipo de caso.",
+      "lead": "Do caso conjugal à investigação corporativa, com sigilo e provas documentadas.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Serviços", "href": "/servicos" } ]
+    }},
+    { "type": "servicos", "props": {
+      "fromData": true,
+      "cta": { "label": "Falar com um detetive", "href": "/agendar" }
+    }},
+    { "type": "porqueEscolher", "props": {
+      "eyebrow": "Por que nos escolher",
+      "title": "Investigação séria entrega prova, não palpite.",
+      "image": "/images/why.jpg",
+      "features": [
+        { "title": "Sigilo absoluto", "text": "Só o contratante sabe da investigação." },
+        { "title": "Provas documentadas", "text": "Fotos, vídeos e relatório com data e local." },
+        { "title": "Investigadores experientes", "text": "Equipe própria de campo e perícia digital." },
+        { "title": "Atuação dentro da lei", "text": "Material que pode ser usado em processo." },
+        { "title": "Cobertura em toda a SP", "text": "Atendemos a capital e a região metropolitana." },
+        { "title": "Atendimento 24h", "text": "Resposta rápida em casos de urgência." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Conte sua situação com sigilo.",
+      "services": ["Investigação conjugal", "Investigação empresarial", "Investigação trabalhista", "Perícia em celular", "Investigação de pensão alimentícia", "Investigação virtual", "Rastreamento veicular", "Varredura e contra-espionagem", "Investigação de adolescente"]
+    }}
+  ]
+}

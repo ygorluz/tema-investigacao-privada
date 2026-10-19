@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Nossa equipe — Detetive Particular SP",
+    "description": "Investigadores de campo, peritos digitais e analistas que conduzem cada caso com discrição em São Paulo. Conheça o time da Detetive Particular SP."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossa equipe",
+      "title": "Investigadores que tratam cada caso com discrição.",
+      "lead": "Profissionais de campo, perícia digital e inteligência trabalhando em conjunto.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipe", "href": "/equipe" } ]
+    }},
+    { "type": "equipe", "props": {
+      "members": [
+        { "name": "Investigação de campo", "role": "Acompanhamento e provas", "photo": "/images/team-1.jpg" },
+        { "name": "Perícia digital", "role": "Celular e investigação virtual", "photo": "/images/team-2.jpg" },
+        { "name": "Inteligência e análise", "role": "Levantamento e cruzamento", "photo": "/images/team-3.jpg" },
+        { "name": "Atendimento reservado", "role": "Contato e orientação", "photo": "/images/team-4.jpg" }
+      ]
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "18+", "label": "Anos de atuação" },
+        { "value": "2.500+", "label": "Casos conduzidos" },
+        { "value": "100%", "label": "Sigilo garantido" },
+        { "value": "24h", "label": "Atendimento de urgência" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Conte sua situação com sigilo.",
+      "services": ["Investigação conjugal", "Investigação empresarial", "Investigação trabalhista", "Perícia em celular", "Investigação de pensão alimentícia", "Investigação virtual", "Rastreamento veicular", "Varredura e contra-espionagem", "Investigação de adolescente"]
+    }}
+  ]
+}

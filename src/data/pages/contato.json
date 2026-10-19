@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Contato — Detetive Particular SP",
+    "description": "Fale com a Detetive Particular SP: WhatsApp, telefone e atendimento reservado em São Paulo. Conte sua situação com sigilo e receba orientação."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Estamos prontos para ouvir o seu caso.",
+      "lead": "Mande mensagem ou ligue — o primeiro contato é sigiloso e sem compromisso.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Contato", "href": "/contato" } ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Envie uma mensagem",
+      "title": "Conte sua situação com sigilo.",
+      "services": ["Investigação conjugal", "Investigação empresarial", "Investigação trabalhista", "Perícia em celular", "Investigação de pensão alimentícia", "Investigação virtual", "Rastreamento veicular", "Varredura e contra-espionagem", "Investigação de adolescente"]
+    }}
+  ]
+}
